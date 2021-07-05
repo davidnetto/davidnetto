@@ -1,5 +1,12 @@
 ### Hi there 👋
+Olá :wave:
 
+Me chamo David A Netto, atuo como Desenvolvedor Full Stack .NET
+:horse: :mage:
+
+Atualmente :arrow_right:
+- .NET VB :seedling:
+- Bootstrap :bouquet: (JQuery,javascript,HTML,CSS)
 <!--
 **davidnetto/davidnetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
