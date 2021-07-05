@@ -1,4 +1,3 @@
-### Hi there 👋
 Olá :wave:
 
 Me chamo David A Netto, atuo como Desenvolvedor Full Stack .NET
